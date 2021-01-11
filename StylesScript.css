@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.butt{
+ position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+body {
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas {
+    border: 5px solid white;
+}
